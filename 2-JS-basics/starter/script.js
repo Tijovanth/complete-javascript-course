@@ -1,0 +1,1 @@
+console.log("Hello Tijovanth you are ready to learn javascript. Focus on your studies. Crack zoho or Freshworks");
